@@ -1,7 +1,7 @@
 body{
 	margin: 0 auto;
 	background-color:lightblue;
-	font-family:serif;
+	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 24px;
 	color:white
 	max-width:800px;
@@ -12,7 +12,7 @@ body{
 p	{
 	line-height: 150%;
 	font-weight: 400;
-	color:white;
+	color:black;
 }
 
 h1	{
