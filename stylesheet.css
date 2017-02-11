@@ -1,7 +1,7 @@
 body{
 	margin: 0 auto;
 	background-color:lightblue;
-	font-family:Calibri, Calibri, serif;
+	font-family:serif;
 	font-size: 22px;
 	color:white
 	max-width:800px;
@@ -11,7 +11,7 @@ body{
 
 p	{
 	line-height: 150%;
-	font-weiht: 400;
+	font-weight: 400;
 	color:white;
 }
 
@@ -24,19 +24,19 @@ h2	{
 }
 
 a {
-    color: grey;
+    color: black;
     margin: 0;
     padding: 0;
     vertical-align: baseline;
 }
 
 a:visited {
-    color: darkgrey;
+    color: grey;
 }
 
 a:hover {
   color: white;
-	background-color: darkgrey;
+	background-color: grey;
 }
 
 ul {
