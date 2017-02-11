@@ -13,17 +13,14 @@ p	{
 	line-height: 150%;
 	font-weight: 400;
 	color:white;
-	text-align: center
 }
 
 h1	{
 	font-size:250%;
-	text-align: center
 }
 
 h2	{
 	font-size:200%;
-	text-align: center
 }
 
 a {
@@ -45,7 +42,6 @@ a:hover {
 ul {
     list-style-type: circle;
     list-style-position: inside;
-	text-align: center
 
 }
 
