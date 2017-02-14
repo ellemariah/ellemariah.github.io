@@ -42,6 +42,7 @@ a:hover {
 ul {
     list-style-type: circle;
     list-style-position: inside;
+	text-align: left
 }
 
 li {
