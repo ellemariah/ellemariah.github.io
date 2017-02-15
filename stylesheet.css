@@ -38,19 +38,19 @@ a:hover {
   color: white;
 	background-color: grey;
 }
-
+ul, ol {
+    padding: 0;
+    margin: 0px 0px 0px 50px;
+}
 ul {
     list-style-type: circle;
     list-style-position: inside;
-	text-align: left;
+
 }
 
 li {
-     line-height:150%
-	text-align: left;
+     line-height:150%    
 }
 li ul, li ul {
     margin-left: 24px;
-	text-align: left;
 }
-
