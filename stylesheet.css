@@ -1,9 +1,9 @@
 body{
 	margin: 0 auto;
-	background-color:#33D49E;
-	font-family: Tahoma, Geneva, serif;
+	background-image: url("https://ellemariah.github.io/francemarket.jpg"); 
+ 	background-position: right top	font-family: Tahoma, Geneva, serif;
 	font-size: 22px;
-	color:white
+	color:white;
 	max-width:800px;
 	padding:30px;
 	font-size:18px;
