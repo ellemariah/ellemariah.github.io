@@ -3,7 +3,7 @@ body{
 	background-image: url("https://ellemariah.github.io/francemarket.jpg"); 
  	background-position: right top	font-family: Tahoma, Geneva, serif;
 	font-size: 22px;
-	color:white;
+	color:black;
 	max-width:800px;
 	padding:30px;
 	font-size:18px;
@@ -31,12 +31,12 @@ a {
 }
 
 a:visited {
-    color: grey;
+    color: blue;
 }
 
 a:hover {
   color: white;
-	background-color: grey;
+	background-color: blue;
 }
 ul {
     padding: 0;
